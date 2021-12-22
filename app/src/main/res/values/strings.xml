@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GameB</string>
+    <string name="username">GameB</string>
+    <string name="auth">Авторизация</string>
+    <string name="etLogin">Введите логин</string>
+    <string name="etReg">Введите пароль</string>
+    <string name="Enter">Войти</string>
+    <string name="textReg">Если вы у нас впервые, пройдите регистрацию.</string>
+    <string name="Reg">Зарегестрироваться</string>
+    <string name="icon">TODO</string>
+    <string name="next">Продолжить</string>
+    <string name="back">Назад</string>
+    <string name="notification">Уведомления</string>
+    <string name="favourite">Избранное</string>
+    <string name="PersonalInfo">Персональная информация</string>
+    <string name="search">Найти\.\.\.</string>
+    <string name="hi">Приветствую\,</string>
+    <string name="search2">что желаете найти?</string>
+    <string name="search_bottom1">Поиск</string>
+    <string name="profile">Профиль</string>
+    <string name="rdr2">Red Dead Redemption 2</string>
+    <string name="rdr2_description">Игра RDR2, получившая более 175 наград и 250 высших оценок от игровых изданий, – это грандиозная история о судьбе бандита Артура Моргана и банды Ван дер Линде</string>
+    <string name="ac2">Assassin\'s Creed</string>
+    <string name="ac2_description">Assassin\'s Creed позволяет погрузиться в воспоминания предков, сражавшихся за сохранение свободы воли в поворотные периоды истории человечества</string>
+    <string name="witcher">The Witcher</string>
+    <string name="witcher_description">Ведьмак Геральт из Ривии, легендарный охотник на чудовищ, оказался в центре борьбы за мировое господство. </string>
+    <string name="metro">Metro Exodus</string>
+    <string name="metro_description">Metro Exodus (рус. «Метро Исход») — мультиплатформенная игра в жанре «шутер от первого лица» с элементами сурвайвал-хоррора и стелс-экшена по мотивам «Вселенной Метро 2033». </string>
+    <string name="Headline">Каталог игр</string>
+</resources>
